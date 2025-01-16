@@ -5,26 +5,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=HumbleBeeAI+Engineer;Full-Stack+Web+Developer;Data+Analysis+Enthusiast;PC+Building+Aficionado;Lifelong+Learner)](https://git.io/typing-svg)
 </div>
 
-## 🚀 About Me
-
-```python
-class SokhibjonBaratov:
-    def __init__(self):
-        self.name = "Sokhibjon Baratov"
-        self.role = "HumbleBeeAI Engineer"
-        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.databases = ["SQL", "MongoDB"]
-        self.data_stack = ["pandas", "plotly", "dash"]
-        self.interests = ["Web Development", "Data Analysis", "PC hardware"]
-        self.hobbies = ["Audiobooks", "Technology", "Learning"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's create something amazing together!")
-
-me = SokhibjonBaratov()
-me.say_hi()
-```
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -48,7 +28,7 @@ me.say_hi()
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaratovSokhibjon&theme=tokyonight)](https://github.com/BaratovSokhibjon)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BaratovSokhibjon&theme=tokyonight)](https://github.com/BaratovSokhibjon)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaratovSokhibjon&layout=compact&theme=tokyonight)](https://github.com/BaratovSokhibjon)
 
@@ -64,11 +44,10 @@ me.say_hi()
 ## 🤝 Let's Connect!
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-baratovsokhibjon-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baratovsokhibjon/)
-[![YouTube](https://img.shields.io/badge/YouTube-alreadytakenhandle-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@alreadytakenhandle)
-[![HackerRank](https://img.shields.io/badge/HackerRank-sokhibjonbaratov-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/sokhibjonbaratov)
-</div>
+  
+[![YouTube](https://img.shields.io/badge/YouTube--red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@alreadytakenhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--0077B5?style=for-the-badge)](https://www.linkedin.com/in/baratovsokhibjon/)
+[![LeetCode](https://img.shields.io/badge/LeetCode--FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/im_sokhib/)</div>
 
 ---
 
