@@ -34,13 +34,6 @@
 
 </div>
 
-## 🎯 Current Focus
-
-- 🌱 Advancing my Full-Stack Web Development skills
-- 📊 Building interactive data visualization projects
-- 💻 Expanding my knowledge of PC hardware and building
-- 📚 Always learning through audiobooks
-
 ## 🤝 Let's Connect!
 
 <div align="center">
